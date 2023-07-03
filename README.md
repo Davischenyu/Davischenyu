@@ -69,7 +69,6 @@
 <a href="https://davischenyu.github.io/">个人网站</a> | <a href="https://www.laixue.com/">来学网</a> | 
 </p>
 <p align="center">
-<img src="https://img-blog.csdnimg.cn/07d5c80f7ae44ca7b8d441cc0c19943f.png#pic_center%E2%80%9D" alt="24f68488c86f4984889ee65cd392ce6a.png#pic_center%E2%80%9D" />
 </p>
 <p align="center"><a href="https://www.laixue.com/weixin"><font color="#03a9f4"><b><u>在线查询</u></b></font></a></p>
 <p align="center"><a href="https://www.laixue.com/site/honour"><font color="#F08080"><b><u>来学网荣誉</u></b></font></a></p> 
@@ -94,7 +93,7 @@
 - #### <img src="images/20210525164445172.png" width="60"/>  [财会金融](https://www.laixue.com/)
   
 
-#筹备中
+# 筹备中
 
 
 # 鸣谢
