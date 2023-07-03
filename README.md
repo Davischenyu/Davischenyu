@@ -39,7 +39,7 @@
 </p>
 
 
-个人简介：目前就职于教育机构，专注于国家职称考试十年，快速应试取证可垂询我，我的业务范畴：卫生资格|财会金融|建筑工程|卫生资格高级|执业医药师|职称考试，来学网官网：www.laixue.com
+个人简介：目前就职于教育机构，专注于国家职称考试十年，快速应试取证可垂询我，添加我微信免费领取资料。我的业务范畴：卫生资格|财会金融|建筑工程|卫生资格高级|执业医药师|职称考试，来学网官网：www.laixue.com
 
 
 
@@ -64,8 +64,6 @@
 				<font color="#e60101">晨</font>
 				<font color="#e60101">煜</font></b> 
 </marquee><p align="center"><img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" /></p><p align="center">
-  <a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B5%B7%E6%8B%A5-blueviolet" alt="%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B5%B7%E6%8B%A5-blueviolet" /></a>
-<a href="https://bbs.huaweicloud.com/community/usersnew/id_1628036118897599"><img src="https://img.shields.io/badge/%E5%8D%8E%E4%B8%BA%E4%BA%91%E7%A4%BE%E5%8C%BA-%E6%B5%B7%E6%8B%A5-ff69b4" alt="%E5%8D%8E%E4%B8%BA%E4%BA%91%E7%A4%BE%E5%8C%BA-%E6%B5%B7%E6%8B%A5-ff69b4" /></a>
 
 <p align="center">
 <a href="https://davischenyu.github.io/">个人网站</a> | <a href="https://www.laixue.com/">来学网</a> | 
