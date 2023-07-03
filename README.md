@@ -17,8 +17,6 @@
 <p align="center">
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-
-<p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
@@ -51,8 +49,8 @@
 				<font color="#6d93e6">奋</font>
 				<font color="#6fcde6">斗</font>
 				<font color="#72e6b6">前</font>
-				<font color="#72e689">行</font>
-				<font color="#99e670">舒</font>, 
+				<font color="#72e689">行</font>, 
+				<font color="#99e670">舒</font>
 				<font color="#cde670">展</font>
 				<font color="#e6df72">从</font>
 				<font color="#e6c073">容</font>
@@ -73,14 +71,14 @@
 <p align="center"><a href="https://www.laixue.com/weixin"><font color="#03a9f4"><b><u>在线查询</u></b></font></a></p>
 <p align="center"><a href="https://www.laixue.com/site/honour"><font color="#F08080"><b><u>来学网荣誉</u></b></font></a></p> 
 
-# 卫生资格
-## 执业护士资格
+# 联系方式（添加好友免费领取资料）
+## 企业微信
 <p align="center"><img src="images/HTML_CSS.jpg"/></p>
 
-## 初级药学
+## 晨煜Laixue
 <p align="center"><img src="images/Javascript.jpg"/></p>
 
-## 初级护理
+## 教育筑梦人
 <p align="center"><img src="images/algorithms.jpg"/></p>
 
 
@@ -104,9 +102,9 @@
 
 <a name="微信"></a>  <a name="公众号"></a>
 
-加我个人微信回复 **"考试"** ，添加好友即可。
+加我微信时备注 **"考试"** ，添加好友，注明哪个专业。
 
-微信搜索 **[无锡分校-高老师]** ，第一时间添加或者扫描下方的二维码。
+微信搜索 **[无锡分校-高老师]** ，第一时间添加或者扫描下方的二维码及上面的均可。
 
 <p align="center"><img src="images/gongzhonghao300.png" width="300" /><img src="images/0.jpg" width="300" /></p>
 
