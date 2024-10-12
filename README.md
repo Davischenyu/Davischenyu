@@ -100,13 +100,13 @@
 
 ****
 
-​<p align="center"><img src="images/20210522180031226.gif" width="300" /></p>
+​<p align="center"><img src="" width="300" /></p>
 
 <a name="微信"></a>  <a name="公众号"></a>
 
 加我微信时备注 **"考试"** ，添加好友，注明哪个专业。
 
-微信搜索 **[无锡分校-高老师]** ，第一时间添加或者扫描下方的二维码及上面的均可。
+微信搜索 **[laixue高]** ，第一时间添加或者扫描下方的二维码及上面的均可。
 
-<p align="center"><img src="images/gongzhonghao300.png" width="300" /><img src="images/0.jpg" width="300" /></p>
+<p align="center"><img src="" width="300" /><img src="" width="300" /></p>
 
