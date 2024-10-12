@@ -74,14 +74,14 @@
 <p align="center"><a href="https://www.laixue.com/site/honour"><font color="#F08080"><b><u>来学网荣誉</u></b></font></a></p> 
 
 # 联系方式（添加好友免费领取资料）
-## 企业微信
-<p align="center"><img src="images/HTML_CSS.jpg"/></p>
+## 待更新
+<p align="center"><img src=""/></p>
 
-## 晨煜Laixue
-<p align="center"><img src="images/Javascript.jpg"/></p>
+## 待更新
+<p align="center"><img src=""/></p>
 
-## 教育筑梦人
-<p align="center"><img src="images/algorithms.jpg"/></p>
+## 待更新
+<p align="center"><img src=""/></p>
 
 
 ### 《来学资讯》
